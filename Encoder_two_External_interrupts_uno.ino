@@ -2,7 +2,7 @@
 Developer: KaiChun, Wu 
 Email: kai.wu013@gmail.com
 
-Read two encoder use uno(or other 329P Arduino bord) 
+Read two encoder use uno(or other 328P Arduino bord) 
 with two External interrupts pin.
 
 connect
